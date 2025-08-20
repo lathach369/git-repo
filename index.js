@@ -1,2 +1,2 @@
-console.log("version 1");
-console.log("first");
+console.log("version 2");
+console.log("index.js");
